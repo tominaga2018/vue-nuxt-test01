@@ -1,6 +1,7 @@
-# vue_nuxt_test01
+# Vue Nuxt Test01
 
-> Vue.js Nuxt.js project Test01
+> Vue.js Nuxt.js Test project
+> demo url: https://sleepy-hermann-93d4f2.netlify.com/
 
 ## Build Setup
 
